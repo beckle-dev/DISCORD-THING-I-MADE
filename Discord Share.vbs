@@ -1,0 +1,7 @@
+x=msgbox("Windows defender", 0+16, "RAT detected")
+x=msgbox("Rat spreading", 0+16, "Windows defender")
+x=msgbox("Dataroaming:/Chrome :/mojangToken :/Discord :/steam compromised", 0+16, "Windows defender")
+x=msgbox("Virus isolated please close and restart", 0+16, "Windows defender")
+x=msgbox("PC tempature critical thermal shutdown", 0+16, "THERMALS")
+x=msgbox("Critical error", 0+16, "Windows defender")
+x=msgbox("LOL JUST MESSING WITH U", 0+16, "HAHAHA")
